@@ -146,7 +146,7 @@ func (rq *req) Delete(url string) (string, error) {
   defer resp.Body.Close()
 
   bs, err := ioutil.ReadAll(resp.Body)
-  if err != nil 
+  if err != nil {
     return "", err
   }
 
