@@ -1,5 +1,4 @@
 # go-hbase-rest
-===
 ###hbase rest api接口链接管理【golang语言版】
 ---
 		关于hbase的rest接口的详细信息可以到官网查看[http://hbase.apache.org/book.html#_rest]
